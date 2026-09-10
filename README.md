@@ -12,7 +12,7 @@
   <a href="https://github.com/MohLGNDQ2D/MohLGNDQ2D/blob/main/Mohammad_Jaradat_CV.pdf">
     <img src="https://img.shields.io/badge/👁️_View-CV-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View CV">
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-khair-samir-jaradata19707320" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-khair-jaradat-a19707320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mohammadlinkedin2004@gmail.com">
@@ -57,20 +57,23 @@ Fresh Data Science and AI graduate from **Yarmouk University** with a strong fou
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education, Training & Certifications
 
 - 🎓 **B.Sc. in Data Science and Artificial Intelligence** — Yarmouk University *(Rating: Very Good)*
+- 🏭 **Inventory Controller Trainee** — Pella Pharma *(Pharmaceutical Manufacturing)*
+- 💡 **Software Engineering & Problem Solving Trainee** — 42 Irbid / Crown Prince Foundation
+- 🏅 **Data Analytics Essentials** — Cisco Networking Academy
 - 🏅 **Fundamentals of Deep Learning** — NVIDIA Deep Learning Institute
 - 🏅 **Gemini Certified Student (University Tier)** — Google for Education
 - 🏅 **Generative AI: Prompt Engineering Basics** — IBM
-- 💡 **Software Engineering & Problem Solving Trainee** — 42 Irbid / Crown Prince Foundation
+- 🏅 **Boost Your Career with AI & Human Skills** — Kiron Open Higher Education
 
 ---
 
 ### 📫 Connect & Collaborate
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-khair-samir-jaradata19707320">
+  <a href="https://www.linkedin.com/in/mohammed-khair-jaradat-a19707320">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mohammadlinkedin2004@gmail.com">
