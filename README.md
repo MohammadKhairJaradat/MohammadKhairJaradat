@@ -1,85 +1,106 @@
-# Hi there, I'm Mohammad Jaradat 👋
+# Hi there, I'm Mohammad Khair Jaradat 👋
 
 <p align="left">
-  <strong>Data Science & AI Graduate | Data Analyst & Applied AI Engineer</strong><br>
-  <em>Yarmouk University — Very Good Standing 🎓 | Irbid, Jordan 📍</em>
+  <strong>APPLIED AI & RAG | DATA ANALYST | BUSINESS INTELLIGENCE</strong><br>
+  <em>B.Sc. Data Science & AI — Yarmouk University (Very Good) 🎓 | Irbid, Jordan 📍</em>
 </p>
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/MohLGNDQ2D/MohLGNDQ2D/main/Mohammad_Jaradat_CV.pdf">
+  <a href="https://raw.githubusercontent.com/MohammadKhairJaradat/MohammadKhairJaradat/main/Mohammad_Jaradat_CV.pdf">
     <img src="https://img.shields.io/badge/📄_Download-CV_(PDF)-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
-  <a href="https://github.com/MohLGNDQ2D/MohLGNDQ2D/blob/main/Mohammad_Jaradat_CV.pdf">
+  <a href="https://github.com/MohammadKhairJaradat/MohammadKhairJaradat/blob/main/Mohammad_Jaradat_CV.pdf">
     <img src="https://img.shields.io/badge/👁️_View-CV-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View CV">
   </a>
   <a href="https://www.linkedin.com/in/mohammed-khair-jaradat-a19707320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:mohammadlinkedin2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:mohammad.sameer.jaradat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammad.sameer.jaradat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-Fresh Data Science and AI graduate from **Yarmouk University** with a strong foundation in **Data Analytics** and hands-on experience building **Applied AI & RAG systems**.
-
-- 📊 **Data Analytics & BI:** End-to-end data pipelines, exploratory data analysis, complex SQL querying, statistical data modeling, and executive Power BI dashboards.
-- 🤖 **Applied AI & RAG:** Designing stateful conversational workflows, hybrid dense/sparse search (ChromaDB + BM25), and prompt engineering for production use cases.
-- 🎯 **Problem Solving:** Passionate about transforming messy data into clear business insights and measurable quantitative impact.
+Data Science and Artificial Intelligence graduate focused on applied AI: building **Retrieval-Augmented Generation (RAG)** pipelines, LLM-powered assistants, and agentic workflows with **LangGraph**. Backed by the **Google Data Analytics Professional Certificate** and solid SQL, Python, and Power BI foundations for data cleaning, exploratory analysis, and KPI reporting.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills
 
-| Area | Technologies & Frameworks |
+| Domain | Technologies & Competencies |
 | :--- | :--- |
-| **Data Analytics & BI** | `Python (Pandas, NumPy, Seaborn, Matplotlib)` • `SQL (PostgreSQL, SQLite, MySQL)` • `Power BI (DAX, Modeling)` • `Tableau` • `Excel` |
-| **Applied AI & RAG** | `ChromaDB (Vector DB)` • `LangGraph` • `Prompt Engineering` • `Tesseract OCR` • `LLM Integration` |
-| **Backend & Databases** | `FastAPI` • `PostgreSQL` • `SQLite` • `RESTful APIs` |
-| **Machine Learning** | `Scikit-Learn` • `Supervised ML` • `Model Evaluation & Cross-Validation` |
-| **Developer Tools** | `Git & GitHub` • `Jupyter Notebook` • `VS Code` • `UV` • `Linux / Bash` |
+| **Applied AI & RAG** | Retrieval-Augmented Generation (RAG), Hybrid Dense + BM25 Retrieval, ChromaDB (Vector Store), Multilingual Embeddings (`intfloat/multilingual-e5-large`), AI Agents & Workflows (`LangGraph`), Prompt Engineering, LLM APIs (Gemini, Claude, OpenAI, Groq), OCR (Tesseract) |
+| **Data Analysis & BI** | Python (`Pandas`, `NumPy`), SQL (`PostgreSQL`, `MySQL`, `SQLite`), JOINs, CASE, Aggregations, Date Functions, Relational Data Models, Data Cleaning & Validation, Exploratory Data Analysis (EDA), Descriptive Statistics, Power BI (DAX, KPI Measures, Interactive Slicers), Excel (PivotTables, Dashboards), Tableau, Matplotlib, Seaborn |
+| **Machine Learning** | Scikit-Learn, Classification, Regression, Model Evaluation & Metrics, Deep Learning Fundamentals |
+| **Software Engineering & Tools** | FastAPI, PostgreSQL, SQLite, Git & GitHub, Jupyter, Linux Command-Line Basics, Debugging, Technical Documentation, Windows Hardware/Software Troubleshooting, Networking Basics, UV |
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 1. 🚚 [Olist E-Commerce: Delivery Delay & Customer Satisfaction Analysis](https://github.com/MohLGNDQ2D/Olist_Data_Analysis)
-- **Tech Stack:** `Python (Pandas, Seaborn)` • `SQL (SQLite / Advanced Aggregations)` • `Power BI` • `Jupyter Notebook`
-- **Impact & Findings:** Analyzed **96,353+ real customer orders** to quantify the business impact of logistics delays. Demonstrated that delayed deliveries cause an immediate **40% decline in customer review scores** (4.29 ⭐ on-time vs. 2.57 ⭐ delayed), providing actionable fulfillment recommendations.
-- **Repository:** [github.com/MohLGNDQ2D/Olist_Data_Analysis](https://github.com/MohLGNDQ2D/Olist_Data_Analysis)
+#### 1. 🤖 [BAYYAN AI — Retrieval-Augmented Assistant for Tax Filing](https://github.com/MohammadKhairJaradat/BAYYAN-AI)
+*Graduation Project | Python, FastAPI, PostgreSQL, ChromaDB, LangGraph*
+- Built a RAG-based Arabic tax-filing assistant: **FastAPI** backend, **PostgreSQL** storage, and a **LangGraph-orchestrated advisor** for document-grounded Q&A and deduction/scenario analysis.
+- Designed and built the RAG retrieval engine: a legal-structure-aware chunker for Arabic statutes, a multilingual E5 embedding pipeline (`intfloat/multilingual-e5-large`), and a versioned **ChromaDB** store; designed a two-stage hybrid retrieval algorithm (dense cosine search re-ranked by BM25, 60/40 weighted score fusion).
+- Developed the document extraction pipeline: **Tesseract OCR** (Arabic+English) for offline knowledge-base ingestion, plus a dual-tier multimodal pipeline (Gemini 2.5 Flash primary, Claude fallback below a confidence threshold) for parsing taxpayer invoices and receipts.
+- **Repository:** [github.com/MohammadKhairJaradat/BAYYAN-AI](https://github.com/MohammadKhairJaradat/BAYYAN-AI)
 
-#### 2. 🤖 **Bayyan AI (TaxAI Jordan) — RAG-Based Tax Advisory Assistant** *(Graduation Project)*
-- **Tech Stack:** `FastAPI` • `PostgreSQL` • `ChromaDB` • `LangGraph` • `React / Vite` • `OCR` • `LLM Routing`
-- **Architecture:** AI tax-preparation platform designed specifically for Jordanian individual taxpayers. Implements a hybrid RAG pipeline (BM25 keyword + multilingual-e5 dense embeddings), stateful memory carry-forward, automated expense receipt OCR extraction, and deterministic Python-based tax calculation engine.
-
----
-
-### 🎓 Education, Training & Certifications
-
-- 🎓 **B.Sc. in Data Science and Artificial Intelligence** — Yarmouk University *(Rating: Very Good)*
-- 🏭 **Inventory Controller Trainee** — Pella Pharma *(Pharmaceutical Manufacturing)*
-- 💡 **Software Engineering & Problem Solving Trainee** — 42 Irbid / Crown Prince Foundation
-- 🏅 **Data Analytics Essentials** — Cisco Networking Academy
-- 🏅 **Fundamentals of Deep Learning** — NVIDIA Deep Learning Institute
-- 🏅 **Gemini Certified Student (University Tier)** — Google for Education
-- 🏅 **Generative AI: Prompt Engineering Basics** — IBM
-- 🏅 **Boost Your Career with AI & Human Skills** — Kiron Open Higher Education
+#### 2. 🚚 [Olist — E-Commerce Delivery & Customer Review Analysis](https://github.com/MohammadKhairJaradat/Olist_Data_Analysis)
+*Personal Project | SQL, SQLite, Python, Power BI*
+- Joined and cleaned **96,353 records** across orders, reviews, and customers in SQLite/Pandas; found a **7.99% delayed-delivery rate**, with customer review scores dropping sharply from **4.29/5** (on-time) to **2.57/5** (delayed).
+- Built an interactive **Power BI dashboard** with delivery KPIs, comparison charts, and date, state, and status filters to support logistics decisions.
+- **Repository:** [github.com/MohammadKhairJaradat/Olist_Data_Analysis](https://github.com/MohammadKhairJaradat/Olist_Data_Analysis)
 
 ---
 
-### 📫 Connect & Collaborate
+### 💼 Practical Training Experience
+
+- 🏭 **Inventory Controller Trainee | Pella Pharma** *(Jul 2026 – Aug 2026)*<br>
+  Completed one-month training in inventory tracking and stock reconciliation in pharmaceutical manufacturing, developing familiarity with accurate records and operational processes.
+- 💡 **Software Engineering & Problem-Solving Trainee | 42 Irbid** *(Sep 2025 – Oct 2025)*<br>
+  Practiced programming logic, debugging, and root-cause analysis through practical peer-to-peer projects, strengthening teamwork and independent problem-solving. Program supported by the Crown Prince Foundation.
+
+---
+
+### 🎓 Education
+
+- 🎓 **B.Sc. in Data Science and Artificial Intelligence** *(Sep 2022 – Sep 2026)*<br>
+  **Yarmouk University** — Irbid, Jordan | **Grade: Very Good**
+
+---
+
+### 🏅 Courses & Certifications
+
+- 📜 **Google Data Analytics Professional Certificate** — Google / Coursera *(Sep 2026)*
+- 📜 **Data Analytics Essentials** — Cisco Networking Academy *(Aug 2026)*
+- 📜 **Generative AI: Prompt Engineering** — IBM Developer Skills Network *(Jan 2026)*
+- 📜 **Fundamentals of Deep Learning** — NVIDIA *(Dec 2024)*
+- 📜 **Gemini Certified Student (University Tier), Google AI Competencies** — Google for Education *(Jun 2026)*
+- 📜 **Drive Your Success with Human Skills** — Kiron Open Higher Education *(May 2026)*
+- 📜 **Boost Your Career with AI** — Kiron Open Higher Education *(Mar 2026)*
+
+---
+
+### 🌐 Languages
+
+- 🇯🇴 **Arabic:** Native
+- 🇬🇧 **English:** Professional Working Proficiency
+
+---
+
+### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-khair-jaradat-a19707320">
+  <a href="https://www.linkedin.com/in/mohammed-khair-jaradat-a19707320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:mohammadlinkedin2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohammadlinkedin2004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:mohammad.sameer.jaradat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammad.sameer.jaradat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/MohLGNDQ2D">
-    <img src="https://img.shields.io/badge/GitHub-MohLGNDQ2D-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/MohammadKhairJaradat" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-MohammadKhairJaradat-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
