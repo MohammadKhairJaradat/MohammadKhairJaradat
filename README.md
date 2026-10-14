@@ -22,13 +22,15 @@ My portfolio combines SQL and Python analysis, Power BI dashboards, and document
 <td width="50%" valign="top">
 <h3><a href="https://github.com/MohammadKhairJaradat/cyclistic-bike-share-analysis">Cyclistic Bike-Share Analysis</a></h3>
 <p><b>Python · SQL · Power BI</b></p>
-<p>Analyzed <b>6.01 million cleaned trips</b>. Weekend share was <b>37.2% for casual trips versus 23.3% for members</b>, informing three proposed campaign tests and a three-page dashboard.</p>
+<p>Cleaned and analyzed <b>6.01 million trips</b> with Python and SQL, checking that both methods produced matching totals. Built a three-page Power BI report with DAX measures and filters for month, rider type and bike type.</p>
+<p>Weekend share was <b>37.2% for casual trips versus 23.3% for members</b>. Used the difference and seasonal patterns to propose three membership campaign tests, with conversion measurement planned for a future pilot.</p>
 <p><a href="https://github.com/MohammadKhairJaradat/cyclistic-bike-share-analysis/blob/main/power_bi/screenshots/overview.png">Dashboard preview</a> · <a href="https://github.com/MohammadKhairJaradat/cyclistic-bike-share-analysis/blob/main/reports/case_study.md">Case study</a></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/MohammadKhairJaradat/Olist_Data_Analysis">Olist Delivery and Reviews</a></h3>
 <p><b>SQL · pandas · Power BI</b></p>
-<p>Examined <b>96,353 joined records</b> covering 95,824 orders. Delayed deliveries had lower average reviews: <b>2.57/5 versus 4.29/5</b>. Recommended monitoring delay segments and improving delivery updates.</p>
+<p>Joined orders, customers and reviews in SQLite, validated the results with pandas, and presented delivery KPIs in Power BI. The analysis covers <b>96,353 joined records and 95,824 unique orders</b>.</p>
+<p>Delayed records averaged <b>2.57/5 versus 4.29/5</b> for on-time deliveries. Recommended monitoring delays by customer state and purchase period, reviewing delivery estimates, and improving customer updates.</p>
 <p><a href="https://github.com/MohammadKhairJaradat/Olist_Data_Analysis/blob/main/reports/delivery_review_summary.png">Results preview</a> · <a href="https://github.com/MohammadKhairJaradat/Olist_Data_Analysis/tree/main/Dashboard">Power BI file</a></p>
 </td>
 </tr>
@@ -36,13 +38,15 @@ My portfolio combines SQL and Python analysis, Power BI dashboards, and document
 <td width="50%" valign="top">
 <h3><a href="https://github.com/MohammadKhairJaradat/pdf-qa-bot">PDF Question Answering Bot</a></h3>
 <p><b>Python · LangChain · Chroma · Gemini · Gradio</b></p>
-<p>A small RAG app with source page references and a local retrieval mode without an API key. <b>35 offline tests passed</b> for retrieval, input checks, and error handling.</p>
+<p>A Gradio app that extracts PDF text, splits it into overlapping chunks, retrieves relevant passages with Chroma, and uses Gemini to answer with source-page references. Includes a local TF-IDF mode for retrieving passages without an API key.</p>
+<p><b>35 offline tests passed</b>, covering extraction, retrieval, source metadata, input checks and provider error handling. Supports text-based PDFs; OCR is outside this project's scope.</p>
 <p><a href="https://github.com/MohammadKhairJaradat/pdf-qa-bot/blob/main/assets/gemini-demo.png">App preview</a> · <a href="https://github.com/MohammadKhairJaradat/pdf-qa-bot#run-locally">Run locally</a></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/MohammadKhairJaradat/BAYYAN-AI">BAYYAN AI — بيان</a></h3>
 <p><b>Python · FastAPI · PostgreSQL · RAG · LangGraph</b></p>
-<p>An Arabic-first graduation project combining document retrieval, AI explanations, and deterministic Python tax estimates. <b>42 tax-calculation and regression tests passed.</b></p>
+<p>An Arabic-first tax assistant for organizing documents, extracting receipt details for review, retrieving supporting passages and explaining tax estimates. Uses FastAPI, PostgreSQL and LangGraph, with a separate Python Decimal engine for calculations.</p>
+<p><b>42 tax-calculation and regression tests passed.</b> Live Gemini checks covered chat, retrieval, receipt extraction and advisor output. The included legal documents are demo material, and the application is an educational prototype.</p>
 <p><a href="https://github.com/MohammadKhairJaradat/BAYYAN-AI#project-at-a-glance">Project overview</a> · <a href="https://github.com/MohammadKhairJaradat/BAYYAN-AI#-quick-start-windows">Setup</a></p>
 </td>
 </tr>

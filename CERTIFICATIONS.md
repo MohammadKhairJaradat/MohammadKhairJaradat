@@ -13,3 +13,5 @@
 | [Fundamentals of Deep Learning](https://drive.google.com/file/d/1xqnM-0uwSGcjfEjb900kc3f6AHncTdri/view) | NVIDIA | Dec 2024 |
 
 The IBM and Google links open Coursera verification pages. Other links open the certificate PDFs.
+
+[Email](mailto:mohammad.sameer.jaradat@gmail.com) · [CV](Mohammad_Khair_Jaradat_CV.pdf)
