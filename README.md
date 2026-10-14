@@ -1,7 +1,7 @@
 ![Mohammad Khair Jaradat — Data Analyst, AI Engineer and Business Intelligence](assets/header.svg)
 
 <p align="center">
-  <a href="https://github.com/MohammadKhairJaradat/blob/main/Mohammad_Khair_Jaradat_CV.pdf"><b>View CV</b></a> &nbsp; · &nbsp;
+  <a href="https://github.com/MohammadKhairJaradat/MohammadKhairJaradat/blob/main/Mohammad_Khair_Jaradat_CV.pdf"><b>View CV</b></a> &nbsp; · &nbsp;
   <a href="https://raw.githubusercontent.com/MohammadKhairJaradat/MohammadKhairJaradat/main/Mohammad_Khair_Jaradat_CV.pdf"><b>Download PDF</b></a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/mohammad-khair-jaradat-a19707320"><b>LinkedIn</b></a> &nbsp; · &nbsp;
   <a href="mailto:mohammad.sameer.jaradat@gmail.com"><b>Email</b></a>
