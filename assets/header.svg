@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mohammad Khair Jaradat — Data Analyst, AI Engineer and Business Intelligence">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102239"/><stop offset="1" stop-color="#183b4b"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<circle cx="1110" cy="28" r="190" fill="#5eead4" opacity=".04"/><circle cx="1110" cy="28" r="135" fill="none" stroke="#5eead4" stroke-opacity=".16"/>
+<rect x="54" y="51" width="36" height="4" rx="2" fill="#5eead4"/>
+<text x="54" y="114" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" fill="#ffffff">Mohammad Khair Jaradat</text>
+<text x="56" y="163" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#a7f3d0">Data Analyst  /  AI Engineer  /  Business Intelligence</text>
+<text x="56" y="225" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#cbd5e1">Data Science and Artificial Intelligence graduate</text>
+<text x="56" y="254" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#94a3b8">Yarmouk University · Very Good · Jordan</text>
+<path d="M952 224h28v-38h25v-35h26v-43h26" fill="none" stroke="#5eead4" stroke-width="5" stroke-linecap="round" opacity=".65"/>
+<circle cx="1057" cy="108" r="6" fill="#5eead4"/>
+</svg>

@@ -1,106 +1,83 @@
-# Hi there, I'm Mohammad Khair Jaradat 👋
+![Mohammad Khair Jaradat — Data Analyst, AI Engineer and Business Intelligence](assets/header.svg)
 
-<p align="left">
-  <strong>APPLIED AI & RAG | DATA ANALYST | BUSINESS INTELLIGENCE</strong><br>
-  <em>B.Sc. Data Science & AI — Yarmouk University (Very Good) 🎓 | Irbid, Jordan 📍</em>
+<p align="center">
+  <a href="https://github.com/MohammadKhairJaradat/blob/main/Mohammad_Khair_Jaradat_CV.pdf"><b>View CV</b></a> &nbsp; · &nbsp;
+  <a href="https://raw.githubusercontent.com/MohammadKhairJaradat/MohammadKhairJaradat/main/Mohammad_Khair_Jaradat_CV.pdf"><b>Download PDF</b></a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-khair-jaradat-a19707320"><b>LinkedIn</b></a> &nbsp; · &nbsp;
+  <a href="mailto:mohammad.sameer.jaradat@gmail.com"><b>Email</b></a>
 </p>
 
-<p align="left">
-  <a href="https://raw.githubusercontent.com/MohammadKhairJaradat/MohammadKhairJaradat/main/Mohammad_Jaradat_CV.pdf">
-    <img src="https://img.shields.io/badge/📄_Download-CV_(PDF)-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-  </a>
-  <a href="https://github.com/MohammadKhairJaradat/MohammadKhairJaradat/blob/main/Mohammad_Jaradat_CV.pdf">
-    <img src="https://img.shields.io/badge/👁️_View-CV-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View CV">
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-khair-jaradat-a19707320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mohammad.sameer.jaradat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohammad.sameer.jaradat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+## About me
 
----
+I'm a recent **Data Science and Artificial Intelligence graduate from Yarmouk University**, with a **Very Good** grade. I'm seeking an entry-level opportunity in **Data Analysis, Business Intelligence, or AI Engineering**.
 
-### 👨‍💻 Professional Summary
+My portfolio combines SQL and Python analysis, Power BI dashboards, and document-based AI applications. I keep projects practical, explain the data and methods, and document the limits alongside the results.
 
-Data Science and Artificial Intelligence graduate focused on applied AI: building **Retrieval-Augmented Generation (RAG)** pipelines, LLM-powered assistants, and agentic workflows with **LangGraph**. Backed by the **Google Data Analytics Professional Certificate** and solid SQL, Python, and Power BI foundations for data cleaning, exploratory analysis, and KPI reporting.
+**Professional certificates:** [IBM AI Engineering](https://coursera.org/verify/professional-cert/DY3SM13IY132) · [Google Data Analytics](https://coursera.org/verify/professional-cert/TW7UQKPED37X)
 
----
+## Selected projects
 
-### 🛠️ Technical Skills
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/MohammadKhairJaradat/cyclistic-bike-share-analysis">Cyclistic Bike-Share Analysis</a></h3>
+<p><b>Python · SQL · Power BI</b></p>
+<p>Compared casual and member riding patterns across <b>6.01 million cleaned trips</b>. Includes a three-page dashboard and three proposed membership campaign tests.</p>
+<p><a href="https://github.com/MohammadKhairJaradat/cyclistic-bike-share-analysis/blob/main/power_bi/screenshots/overview.png">Dashboard preview</a> · <a href="https://github.com/MohammadKhairJaradat/cyclistic-bike-share-analysis/blob/main/reports/case_study.md">Case study</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/MohammadKhairJaradat/Olist_Data_Analysis">Olist Delivery and Reviews</a></h3>
+<p><b>SQL · pandas · Power BI</b></p>
+<p>Examined <b>96,353 joined records</b> covering 95,824 orders. Delayed deliveries had lower average reviews: <b>2.57/5 versus 4.29/5</b>.</p>
+<p><a href="https://github.com/MohammadKhairJaradat/Olist_Data_Analysis/blob/main/reports/delivery_review_summary.png">Results preview</a> · <a href="https://github.com/MohammadKhairJaradat/Olist_Data_Analysis/tree/main/Dashboard">Power BI file</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/MohammadKhairJaradat/pdf-qa-bot">PDF Question Answering Bot</a></h3>
+<p><b>Python · LangChain · Chroma · Gemini · Gradio</b></p>
+<p>A small RAG app that answers questions about a text-based PDF and displays supporting passages with page numbers. Includes a local retrieval mode without an API key.</p>
+<p><a href="https://github.com/MohammadKhairJaradat/pdf-qa-bot/blob/main/assets/gemini-demo.png">App preview</a> · <a href="https://github.com/MohammadKhairJaradat/pdf-qa-bot#run-locally">Run locally</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/MohammadKhairJaradat/BAYYAN-AI">BAYYAN AI — بيان</a></h3>
+<p><b>Python · FastAPI · PostgreSQL · RAG · LangGraph</b></p>
+<p>An Arabic-first graduation project for organizing Jordanian tax information. Combines document retrieval, AI-assisted explanations, and deterministic Python tax estimates.</p>
+<p><a href="https://github.com/MohammadKhairJaradat/BAYYAN-AI#project-at-a-glance">Project overview</a> · <a href="https://github.com/MohammadKhairJaradat/BAYYAN-AI#-quick-start-windows">Setup</a></p>
+</td>
+</tr>
+</table>
 
-| Domain | Technologies & Competencies |
-| :--- | :--- |
-| **Applied AI & RAG** | Retrieval-Augmented Generation (RAG), Hybrid Dense + BM25 Retrieval, ChromaDB (Vector Store), Multilingual Embeddings (`intfloat/multilingual-e5-large`), AI Agents & Workflows (`LangGraph`), Prompt Engineering, LLM APIs (Gemini, Claude, OpenAI, Groq), OCR (Tesseract) |
-| **Data Analysis & BI** | Python (`Pandas`, `NumPy`), SQL (`PostgreSQL`, `MySQL`, `SQLite`), JOINs, CASE, Aggregations, Date Functions, Relational Data Models, Data Cleaning & Validation, Exploratory Data Analysis (EDA), Descriptive Statistics, Power BI (DAX, KPI Measures, Interactive Slicers), Excel (PivotTables, Dashboards), Tableau, Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-Learn, Classification, Regression, Model Evaluation & Metrics, Deep Learning Fundamentals |
-| **Software Engineering & Tools** | FastAPI, PostgreSQL, SQLite, Git & GitHub, Jupyter, Linux Command-Line Basics, Debugging, Technical Documentation, Windows Hardware/Software Troubleshooting, Networking Basics, UV |
+## Skills
 
----
+| Area | Tools and practice |
+|---|---|
+| **Data analysis** | Python, pandas, NumPy, SQL (MySQL, SQLite), cleaning, validation, exploratory analysis |
+| **Business intelligence** | Power BI, DAX measures, slicers, KPI reporting, Excel, Power Query, Tableau |
+| **Applied AI** | RAG, LangChain, Chroma, embeddings, LLM APIs, prompt design |
+| **Machine learning** | scikit-learn, classification, regression, model evaluation; coursework in PyTorch, TensorFlow and Keras |
+| **Development** | Git, GitHub, Jupyter, Linux command line, C; exposure to FastAPI and PostgreSQL |
 
-### 🚀 Featured Projects
+## Education and training
 
-#### 1. 🤖 [BAYYAN AI — Retrieval-Augmented Assistant for Tax Filing](https://github.com/MohammadKhairJaradat/BAYYAN-AI)
-*Graduation Project | Python, FastAPI, PostgreSQL, ChromaDB, LangGraph*
-- Built a RAG-based Arabic tax-filing assistant: **FastAPI** backend, **PostgreSQL** storage, and a **LangGraph-orchestrated advisor** for document-grounded Q&A and deduction/scenario analysis.
-- Designed and built the RAG retrieval engine: a legal-structure-aware chunker for Arabic statutes, a multilingual E5 embedding pipeline (`intfloat/multilingual-e5-large`), and a versioned **ChromaDB** store; designed a two-stage hybrid retrieval algorithm (dense cosine search re-ranked by BM25, 60/40 weighted score fusion).
-- Developed the document extraction pipeline: **Tesseract OCR** (Arabic+English) for offline knowledge-base ingestion, plus a dual-tier multimodal pipeline (Gemini 2.5 Flash primary, Claude fallback below a confidence threshold) for parsing taxpayer invoices and receipts.
-- **Repository:** [github.com/MohammadKhairJaradat/BAYYAN-AI](https://github.com/MohammadKhairJaradat/BAYYAN-AI)
+**B.Sc. in Data Science and Artificial Intelligence**<br>
+Yarmouk University · 2022–2026 · Grade: **Very Good**
 
-#### 2. 🚚 [Olist — E-Commerce Delivery & Customer Review Analysis](https://github.com/MohammadKhairJaradat/Olist_Data_Analysis)
-*Personal Project | SQL, SQLite, Python, Power BI*
-- Joined and cleaned **96,353 records** across orders, reviews, and customers in SQLite/Pandas; found a **7.99% delayed-delivery rate**, with customer review scores dropping sharply from **4.29/5** (on-time) to **2.57/5** (delayed).
-- Built an interactive **Power BI dashboard** with delivery KPIs, comparison charts, and date, state, and status filters to support logistics decisions.
-- **Repository:** [github.com/MohammadKhairJaradat/Olist_Data_Analysis](https://github.com/MohammadKhairJaradat/Olist_Data_Analysis)
+- **Pella Pharmaceuticals** — One-month inventory-control training, 2026. Inventory tracking, stock reconciliation, and accurate records.
+- **42 Irbid, Crown Prince Foundation** — Programming and problem-solving training, Sep–Oct 2025. C, Linux, debugging, and peer learning.
 
----
+## Certifications
 
-### 💼 Practical Training Experience
+| Credential | Provider | Completed |
+|---|---|---|
+| [IBM AI Engineering Professional Certificate](https://coursera.org/verify/professional-cert/DY3SM13IY132) | IBM / Coursera | Oct 2026 |
+| [Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/TW7UQKPED37X) | Google / Coursera | Sep 2026 |
+| [Data Analytics Essentials](https://drive.google.com/file/d/1XzIG4cwgTgD_rpMSBO-fqwulS6LQKGE4/view) | Cisco Networking Academy | Aug 2026 |
+| [Drive Your Success with Human Skills](https://drive.google.com/file/d/1kY0YtuRPgCe3wdmusAcZfbTb-520P05d/view) | Kiron Open Higher Education | May 2026 |
+| [Boost Your Career with AI](https://drive.google.com/file/d/1WRzdrGCxlAWJlZXixVZD9QJkZzskZJMC/view) | Kiron Open Higher Education | Mar 2026 |
+| [Generative AI: Prompt Engineering](https://drive.google.com/file/d/1KsQ40eib-W-9ek1D7Dfks20cRPK6iMZt/view) | IBM Developer Skills Network | Jan 2026 |
+| [Fundamentals of Deep Learning](https://drive.google.com/file/d/1xqnM-0uwSGcjfEjb900kc3f6AHncTdri/view) | NVIDIA | Dec 2024 |
 
-- 🏭 **Inventory Controller Trainee | Pella Pharma** *(Jul 2026 – Aug 2026)*<br>
-  Completed one-month training in inventory tracking and stock reconciliation in pharmaceutical manufacturing, developing familiarity with accurate records and operational processes.
-- 💡 **Software Engineering & Problem-Solving Trainee | 42 Irbid** *(Sep 2025 – Oct 2025)*<br>
-  Practiced programming logic, debugging, and root-cause analysis through practical peer-to-peer projects, strengthening teamwork and independent problem-solving. Program supported by the Crown Prince Foundation.
+**Languages:** Arabic (native) · English (professional working proficiency)
 
----
-
-### 🎓 Education
-
-- 🎓 **B.Sc. in Data Science and Artificial Intelligence** *(Sep 2022 – Sep 2026)*<br>
-  **Yarmouk University** — Irbid, Jordan | **Grade: Very Good**
-
----
-
-### 🏅 Courses & Certifications
-
-- 📜 **Google Data Analytics Professional Certificate** — Google / Coursera *(Sep 2026)*
-- 📜 **Data Analytics Essentials** — Cisco Networking Academy *(Aug 2026)*
-- 📜 **Generative AI: Prompt Engineering** — IBM Developer Skills Network *(Jan 2026)*
-- 📜 **Fundamentals of Deep Learning** — NVIDIA *(Dec 2024)*
-- 📜 **Gemini Certified Student (University Tier), Google AI Competencies** — Google for Education *(Jun 2026)*
-- 📜 **Drive Your Success with Human Skills** — Kiron Open Higher Education *(May 2026)*
-- 📜 **Boost Your Career with AI** — Kiron Open Higher Education *(Mar 2026)*
-
----
-
-### 🌐 Languages
-
-- 🇯🇴 **Arabic:** Native
-- 🇬🇧 **English:** Professional Working Proficiency
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-khair-jaradat-a19707320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mohammad.sameer.jaradat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohammad.sameer.jaradat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/MohammadKhairJaradat" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MohammadKhairJaradat-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<p align="center"><a href="mailto:mohammad.sameer.jaradat@gmail.com">mohammad.sameer.jaradat@gmail.com</a> &nbsp; · &nbsp; Jordan &nbsp; · &nbsp; Open to entry-level opportunities</p>
